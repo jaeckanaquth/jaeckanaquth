@@ -7,7 +7,7 @@
 - [LinkedIn](https://www.linkedin.com/in/anmol-dudani-k/)
 
 ## About Me
-Motivated, teamwork-oriented, and responsible Senior DevOps Engineer with a strong foundation in Data Science. I have a Master's degree specialized in Big Data and various certificates in Data Science and Machine Learning.
+Motivated, teamwork-oriented, and responsible Senior DevOps Engineer with a strong foundation in Data Science. I have a Master's degree specialising in Big Data and various certificates in Data Science and Machine Learning.
 
 ## Skills
 - **Programming Languages:** Python, SQL, C
@@ -19,7 +19,7 @@ Motivated, teamwork-oriented, and responsible Senior DevOps Engineer with a stro
 
 ### Automated Infrastructure Deployment using Terraform
 Implement Infrastructure as Code (IaC) to automate the provisioning of AWS resources for a web application.
-- **Repository:** [Automated Infrastructure Deployment](https://github.com/yourusername/automated-infrastructure-deployment)
+- **Repository:** [Automated Infrastructure Deployment](https://github.com/jaeckanaquth/aws_Infrastructure_terraform)
 - **Description:** Reduced deployment time by 50% by automating the creation of infrastructure.
 
 ### AWS Cloud Security Implementation
