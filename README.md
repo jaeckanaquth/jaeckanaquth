@@ -2,7 +2,6 @@
 
 ## Contact Information
 - Email: jaeckanaquth@gmail.com
-- Phone: 07976785300
 - Location: Jaipur, India
 - [LinkedIn](https://www.linkedin.com/in/anmol-dudani-k/)
 
