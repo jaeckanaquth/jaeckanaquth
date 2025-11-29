@@ -3,14 +3,14 @@
 **Senior DevOps & MLOps Engineer**
 Building scalable ML platforms, automating cloud infrastructure, and shipping production-ready data systems across AWS, GCP & Kubernetes.
 
----
+
 
 ## 🚀 About Me
 
 I design and deploy full-stack MLOps and DevOps systems — from data ingestion to automated training, CI/CD, real-time model deployment, monitoring, compliance, and cloud automation.
 Strong foundation in Python, PySpark, Terraform, Kubernetes, and cloud-native ML.
 
----
+
 
 ## 🔧 Tech Stack
 
@@ -23,7 +23,7 @@ Strong foundation in Python, PySpark, Terraform, Kubernetes, and cloud-native ML
 **Frameworks:** FastAPI • Flask
 **Visualization:** Power BI • Tableau
 
----
+
 
 ## 🛠️ Key Projects
 
@@ -43,7 +43,7 @@ OCR + NLP-based workflow for extracting structured data from invoices and forms.
 
 ML Ops pipeline with drift detection and continuous monitoring for high-volume billing statements.
 
----
+
 
 ## 💼 Professional Experience
 
@@ -67,14 +67,14 @@ ML Ops pipeline with drift detection and continuous monitoring for high-volume b
 * Deployed POCs into production
 * Nominated for R-Samman Award for analytics excellence
 
----
+
 
 ## 📚 Education
 
 **M.Tech — Big Data & Data Science**, VIT (2020)
 **B.Tech — Computer Science**, Mody University (2017)
 
----
+
 
 ## 🏆 Achievements
 
@@ -82,7 +82,7 @@ ML Ops pipeline with drift detection and continuous monitoring for high-volume b
 * R-Samman Nominee, RIL (2020)
 * Published research in object detection, clustering, and sentiment analysis
 
----
+
 
 ## 📫 Contact
 
