@@ -14,14 +14,14 @@ Strong foundation in Python, PySpark, Terraform, Kubernetes, and cloud-native ML
 
 ## 🔧 Tech Stack
 
-**Languages:** Python • PySpark • SQL • Shell
-**MLOps:** CI/CD for ML • Model Serving • Model Monitoring
-**Cloud:** AWS (S3, Lambda, SageMaker, CloudWatch) • GCP (BigQuery, AI Platform) • Azure ML
-**DevOps:** Docker • Kubernetes • Terraform • CloudFormation • GitHub Actions • GitOps
-**Data:** Hadoop • Airflow • ETL • Feature Stores
-**Monitoring:** ELK • Grafana • Datadog
-**Frameworks:** FastAPI • Flask
-**Visualization:** Power BI • Tableau
+**Languages:** Python • PySpark • SQL • Shell </br>
+**MLOps:** CI/CD for ML • Model Serving • Model Monitoring </br>
+**Cloud:** AWS (S3, Lambda, SageMaker, CloudWatch) • GCP (BigQuery, AI Platform) • Azure ML </br>
+**DevOps:** Docker • Kubernetes • Terraform • CloudFormation • GitHub Actions • GitOps </br>
+**Data:** Hadoop • Airflow • ETL • Feature Stores </br>
+**Monitoring:** ELK • Grafana • Datadog </br>
+**Frameworks:** FastAPI • Flask </br>
+**Visualization:** Power BI • Tableau </br>
 
 
 
